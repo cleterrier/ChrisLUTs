@@ -7,7 +7,7 @@ Right now there are three sets of LUTs:
 
 ![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_3-color.tif)
 
-![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_3-color_Image.jpg)
+![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_3color_Image.jpg)
 
 
 * Inverted LUTs are made to generate black-on-white images aka [#invertedLUTs](https://twitter.com/search?q=%23invertedLUT&src=typd). It allow to directly see the results rather than using "Invert" at the end in ImageJ. However, the overly visualization in ImageJ mutli-channel stacks is not adapted to inverted LUTs so you won't see the resulting overlay straight away for multi-channel images. You should convert the stack to a multi-slice RGB stack and then project the channels usinng "Sum Slices" to get a propet RGB overlay.
@@ -21,4 +21,6 @@ Right now there are three sets of LUTs:
 ![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_OPF.tif)
 
 ![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_OPF_Image.png)
+
+Youn can also check the great [DavLUTs](https://github.com/quokka79/DavLUT) and the [Fiji LUTs repository](https://github.com/fiji/fiji/tree/master/luts)
 
