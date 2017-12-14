@@ -1,6 +1,6 @@
 # ChrisLUTs
 
-Due to popular request (well at least [@AbAttacks](https://twitter.com/AbAttacks/status/941068029433180160)), here are the LUTs I've generated for ImageJ. Right now there are three sets of LUTs. Youn can also check the great [DavLUTs](https://github.com/quokka79/DavLUT) and the [Fiji LUTs repository](https://github.com/fiji/fiji/tree/master/luts).
+Due to popular request (well at least [@AbAttacks](https://twitter.com/AbAttacks/status/941068029433180160)), here are the LUTs I've generated for ImageJ. Right now there are three sets of LUTs. You can also check the great [DavLUTs](https://github.com/quokka79/DavLUT) and the [Fiji LUTs repository](https://github.com/fiji/fiji/tree/master/luts).
 
 ## 3color
 3color are three-color LUTs that are made to be complementary (BMR/RMB vs YGC/CGY have non crossing paths along the RGB cube). I use them for "two-channels rainbow images" when I want to encode two channels with two distinct "half-rainbow" LUTs.
