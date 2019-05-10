@@ -10,7 +10,7 @@ Due to popular request (well at least [@AbAttacks](https://twitter.com/AbAttacks
 ![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_3color_Image.jpg)
 
 ## I for Inverted
-Inverted LUTs are made to generate black-on-white images aka [#invertedLUTs](https://twitter.com/search?q=%23invertedLUT&src=typd). It allow to directly see the image rather than using "Invert" at the endof the procedure in ImageJ. However, the ImageJ overlay visualization FOR mulTi-channel stacks isn't adapted to inverted LUTs, so you won't see the resulting overlay straight away. You should convert the multi-channel stack to a multi-slice RGB stack and then project the channels using "Sum Slices" to get a propet RGB overlay.
+Inverted LUTs are made to generate black-on-white images aka [#invertedLUTs](https://twitter.com/search?q=%23invertedLUT&src=typd). It allow to directly see the image rather than using "Invert" at the end of the procedure in ImageJ. However, the ImageJ overlay visualization for multi-channel stacks isn't adapted to inverted LUTs, so you won't see the resulting overlay straight away. You should convert the multi-channel stack to a multi-slice RGB stack and then project the channels using "Sum Slices" to get a propet RGB overlay.
 
 ![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_Inverted.tif)
 
