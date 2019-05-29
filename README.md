@@ -23,3 +23,11 @@ OPF LUTs are a set of 3 complementary LUTs (their overlay is white) that have or
 
 ![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_OPF_Image.png)
 
+## BOP LUts
+OPF LUTs are a set of 3 complementary LUTs (their overlay is white) that have blue (B), orange (O) and purple (P)  as base colors.
+
+![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_BOP.png)
+
+It also looks nice inverted, with a muted RGB result:
+
+![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_BOP_rev.png)
