@@ -33,6 +33,6 @@ OPF LUTs are a set of 3 complementary LUTs (their overlay is white) that have or
 ![3-color](http://www.neurocytolab.org/up/Github/ChrisLUTs_OPF_Image.png)
 
 ## Turbo LUT
-This is Google AI "Turbo" LUT in ImageJ LUT format. Turbo is an enhanced Rainbow LUT that is more visually continuous than Jet, see more details [here] (https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html).
+This is Google AI "Turbo" LUT in ImageJ LUT format. Turbo is an enhanced Rainbow LUT that is more visually continuous than Jet, see more details [here](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html).
 
  ![Turbo](http://www.neurocytolab.org/up/Github/ChrisLUTs_Turbo.png)
