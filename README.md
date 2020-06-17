@@ -2,7 +2,7 @@
 
 Due to popular request (well at least [@AbAttacks](https://twitter.com/AbAttacks/status/941068029433180160)), here are the LUTs I've generated for ImageJ. Right now there are three sets of LUTs. You can also check the [Fiji LUTs repository](https://github.com/fiji/fiji/tree/master/luts) that integrates these LUTs.
 
-All the LUTs in this repository except Turbo have been devised by me and are available under an [MIT license](https://choosealicense.com/licenses/mit/). I made an ImageJ LUT for Turbo based on the [Apache 2.0 license](https://choosealicense.com/licenses/apache-2.0/) of the original work (see below).
+All the LUTs in this repository except Turbo have been devised by me and are available under an [MIT license](https://choosealicense.com/licenses/mit/). I made an ImageJ LUT for Turbo based on the [Apache 2.0 license](https://choosealicense.com/licenses/apache-2.0/) of the [original work](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html).
 
 ## 3color
 3color are three-color LUTs that are made to be complementary (BMR/RMB vs YGC/CGY have non crossing paths along the RGB cube). I use them for "two-channels rainbow images" when I want to encode two channels with two distinct "half-rainbow" LUTs.
