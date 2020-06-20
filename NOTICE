@@ -1,0 +1,5 @@
+All the LUTs in this repository except Turbo are original work by Christophe Leterrier
+and are available under the MIT license (see LICENSE)
+
+Turbo.lut for ImageJ is work derived from the Turbo colormap based on the Apache 2.0 license.
+https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html
